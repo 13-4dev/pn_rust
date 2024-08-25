@@ -1,3 +1,3 @@
-# perling noise generator rust
+# perlin noise generator rust
 
 ![noise](noise.png)
